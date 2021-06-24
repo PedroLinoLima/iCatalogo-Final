@@ -1,2 +1,2 @@
-<h1>iCatalogo - Final<\h1>
+<h1 align: center>iCatalogo - Final
 
